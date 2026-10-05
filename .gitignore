@@ -6,6 +6,8 @@ dist-ssr
 .env
 .nitro
 .tanstack
+.impeccable-cache
+supabase/.temp
 .wrangler
 .output
 .vinxi
