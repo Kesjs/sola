@@ -13,3 +13,5 @@ supabase/.temp
 .vinxi
 __unconfig*
 todos.json
+
+.vercel
